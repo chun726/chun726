@@ -22,12 +22,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=Fortran&logoColor=white" />
  
 <br/><hr/><br/>
- ####Github history
+####Github history
+ <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chunchem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  <br/><br/>
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chunchem&hide=contribs,prs)
  <br/><br/><hr/><br/><br/>
 ####Problem Solving
+ <br/>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0726dohyun)](https://solved.ac/0726dohyun)
 
