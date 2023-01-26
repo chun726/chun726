@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
+ # 한개
+ ## 두개
+ ### 세개
+ #### 네개
 <br/><br/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
  <br/>
