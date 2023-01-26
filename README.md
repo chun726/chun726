@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **chunchem/chunchem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,5 +16,6 @@ Here are some ideas to get you started:
 <div align="center">
 
 # Coffee
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+  
 </div>
