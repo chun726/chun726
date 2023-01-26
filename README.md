@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 <br/>
-![header](https://capsule-render.vercel.app/api?type=Waving&color=a3cca3&text=Greetings!&fontSize=45&fontColor=434343&height=200&fontAlignY=35)
-<br/>
+![header](https://capsule-render.vercel.app/apitype=Waving&color=a3cca3&text=Greetings!&fontSize=45&fontColor=434343&height=200&fontAlignY=35)
+<br/><br/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
  <br/>
 <img src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=Julia&logoColor=white" />
