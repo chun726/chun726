@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-# 한개
-## 두개
+    # 한개
+    ## 두개
 ### 세개
 #### 네개
 </div>
