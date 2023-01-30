@@ -12,12 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # Dohyun Chun's Profile
+
    - 🌱 I’m currently learning chemistry
    - 👯 I’m looking to collaborate on ...
 <br/>
-<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chunchem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+
