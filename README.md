@@ -36,6 +36,4 @@ Here are some ideas to get you started:
 <br/>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0726dohyun)](https://solved.ac/0726dohyun)
 
-
- 
 </div>
