@@ -17,9 +17,9 @@ Here are some ideas to get you started:
    - 👯 I’m looking to collaborate on ...
 
 <div align="center">
-   <br/><hr/><br/>
 
-<br/><br/><br/>
+
+<br/><hr/><br/>
     **I learned..**
      <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
