@@ -12,12 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-    ## 테스트
 ## 테스트
-</div>
-## 테스트
-    ## 테스트
 
 <div align="center">
 
