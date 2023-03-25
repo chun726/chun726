@@ -1,7 +1,7 @@
 # Dohyun Chun 🎓
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0726dohyun)](https://solved.ac/0726dohyun/)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chunchem&layout=Demo&theme=calm)
 
 
 # Personal description
