@@ -1,7 +1,7 @@
 # Dohyun Chun 🎓
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0726dohyun)](https://solved.ac/0726dohyun/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chunchem&layout=Demo&theme=calm)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chunchem&layout=compact&theme=calm)
 
 
 # Personal description
@@ -17,6 +17,7 @@
 ### Tools 🪒
 ![Spyder](https://img.shields.io/badge/Spyder%20IDE-FF0000.svg?&style=for-the-badge&logo=Spyder%20IDE&logoColor=white)
 ![Visual studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
 # :mailbox_with_mail: Contacts
