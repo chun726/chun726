@@ -4,7 +4,7 @@
     <a href="https://solved.ac/0726dohyun/">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0726dohyun" alt="Solved.ac Profile" height="150px">
     </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunchem&layout=compact&theme=calm" alt="Top Langs" height="150px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chun726&layout=compact&theme=calm" alt="Top Langs" height="150px">
 </div>
 
 
